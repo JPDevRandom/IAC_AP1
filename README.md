@@ -1,2 +1,11 @@
 # IAC_AP1
- Barbara Andrieli Soares Machado
+
+Romulo Camargo
+ 
+João Pedro Alves Jardim
+
+Barbara Andrieli Soares Machado
+
+Maickel Jorge
+
+Gustavo Benfica
