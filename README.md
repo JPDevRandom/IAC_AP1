@@ -1,6 +1,11 @@
 # IAC_AP1
+
 Romulo Camargo
  
- João Pedro Alves Jardim
+João Pedro Alves Jardim
 
- https://github.com/JPDevRandom
+Barbara Andrieli Soares Machado
+
+Maickel Jorge
+
+Gustavo Benfica
